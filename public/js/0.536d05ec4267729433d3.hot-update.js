@@ -1,0 +1,10 @@
+webpackHotUpdate(0,{
+
+/***/ 419:
+/***/ (function(module, exports) {
+
+eval("throw new Error(\"Module build failed: SyntaxError: Unexpected token (440:90)\\n\\n\\u001b[0m \\u001b[90m 438 | \\u001b[39m\\n \\u001b[90m 439 | \\u001b[39m                    \\u001b[36mvar\\u001b[39m new_date \\u001b[33m=\\u001b[39m moment(response\\u001b[33m.\\u001b[39mdata[\\u001b[35m0\\u001b[39m]\\u001b[33m.\\u001b[39mcreated\\u001b[33m,\\u001b[39m \\u001b[32m\\\"YYYY-MM-DD\\\"\\u001b[39m)\\u001b[33m.\\u001b[39mformat(\\u001b[32m'YYYY-MM-DD'\\u001b[39m)\\n\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 440 | \\u001b[39m                    \\u001b[36mvar\\u001b[39m end_date \\u001b[33m=\\u001b[39m moment(response\\u001b[33m.\\u001b[39mdata[response\\u001b[33m.\\u001b[39mdata\\u001b[33m.\\u001b[39mlength\\u001b[33m-\\u001b[39m\\u001b[35m1\\u001b[39m]\\u001b[33m.\\u001b[39mcreated)\\u001b[33m,\\u001b[39m \\u001b[32m\\\"YYYY-MM-DD\\\"\\u001b[39m)\\u001b[33m.\\u001b[39mformat(\\u001b[32m'YYYY-MM-DD'\\u001b[39m)\\n \\u001b[90m     | \\u001b[39m                                                                                          \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\n \\u001b[90m 441 | \\u001b[39m                    \\u001b[36mvar\\u001b[39m loop_last_date \\u001b[33m=\\u001b[39m moment(response\\u001b[33m.\\u001b[39mdata[response\\u001b[33m.\\u001b[39mdata\\u001b[33m.\\u001b[39mlength\\u001b[33m-\\u001b[39m\\u001b[35m1\\u001b[39m]\\u001b[33m.\\u001b[39mcreated)\\u001b[33m,\\u001b[39m \\u001b[32m\\\"YYYY-MM-DD\\\"\\u001b[39m)\\u001b[33m.\\u001b[39madd(\\u001b[35m1\\u001b[39m\\u001b[33m,\\u001b[39m \\u001b[32m'days'\\u001b[39m)\\u001b[33m.\\u001b[39mformat(\\u001b[32m'YYYY-MM-DD'\\u001b[39m)\\n \\u001b[90m 442 | \\u001b[39m                    console\\u001b[33m.\\u001b[39mlog(new_date)\\n \\u001b[90m 443 | \\u001b[39m                    console\\u001b[33m.\\u001b[39mlog(end_date)\\u001b[0m\\n\");\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiI0MTkuanMiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///419\n");
+
+/***/ })
+
+})

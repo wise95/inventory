@@ -1,0 +1,262 @@
+.left-nav-bar{
+	position: fixed;
+	background-color: #284255;
+	width: 64px;
+	z-index: 10;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+}
+
+.tickets-controls{
+	background-color: #f9f9f9;
+    height: 50px;
+    border-bottom: 1px #dadfe3 solid;
+    padding-left: 50px;
+}
+
+.order-by{
+	background-color: #f9f9f9;
+	font-weight: 600;
+}
+
+.filter-by{
+	background-color: #fff;
+	font-weight: 500;
+	padding-left: 0px;
+}
+
+body{
+	background-color: #ebeef0;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+ 
+  height: 100%;
+  min-height:100px;
+}
+
+.control-button{
+  margin-right: 10px;
+  padding: 2px 5px;
+  
+  border-radius: 0;
+}
+
+.filter-button{
+  margin-right: 5px;
+  padding: 1px 2px;
+  border-radius: 0;
+  background-color: #ebeff2;
+  border: 1px solid #dadfe3;
+  color: #183247;
+  padding-right: 5px;
+  font-weight: 500;
+}
+
+.filter-button img{
+	padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+.ul-filters{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+.ul-filters> li{
+	display: block;
+	float: left;
+    clear: left;
+    border-bottom: 1px solid #dadfe3;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.ul-filter {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.ul-filters .ul-filter li {
+    float: left;
+    margin-bottom: 5px;
+}
+
+
+.btn:focus,.btn:active:focus,.btn.active:focus,
+.btn.focus,.btn:active.focus,.btn.active.focus {
+     outline: none;
+     box-shadow:none;
+}
+
+.tickets-left{
+	padding-left: 50px;
+	 overflow-x: hidden;
+     overflow-y: scroll;
+}
+.tickets-right{
+	position: absolute;
+	background-color: #fff;
+	height: 100%;
+	width:100%;
+	padding-left: 10px;
+	padding-top: 10px;
+	overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+.dropdown-menu{
+	border-radius: 0px;
+}
+
+.badge{
+	border-radius: 0px;
+	font-size: 70%;
+}
+
+.ticket-list{
+	 background-color:#fff;
+	 width: 100%;
+}
+
+.ticket-list td{
+	margin-bottom: 15px;
+	background-color: #fff;
+	border-top: 20px solid #ebeef0;
+}
+
+.ticket-list-anchor{
+	color: #212529;
+	font-weight: 600;
+}
+
+
+.ticket-list-action {
+    background-color:#fff;
+    font-weight: 600;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 12px;
+}
+
+.ticket-list-label { 
+ font-size: 12px;
+ margin-bottom: .0px;
+}
+
+.single-ticket{
+  background-color:#fff;
+  table-layout:fixed;
+  width: 100%;
+ 
+  display: block;
+  word-wrap: break-word;
+ 	
+}
+.ticket-head{
+	background-color: #f9f9f9;
+	padding: 10px 10px;
+	overflow: hidden;
+}
+
+.ticket-body{
+	padding: 10px 10px;
+}
+
+.property{
+
+}
+
+.property button{
+	line-height: .6;
+	background-color: #ebeef0;
+}
+.property span{
+	font-size: 11px;
+}
+
+.property-label{
+	margin-bottom: 0px;
+	margin-top: .5rem;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.avatar-overlay {
+    
+    background-color: #ffd8c2;
+    width: 44px;
+    height: 44px;
+  
+    display:table-cell;
+    vertical-align: middle;
+    transition: .2s ease-in-out;
+}
+
+.recent_tickets{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+
+.recent_tickets li {
+	font-size: 12px;
+}
+
+.reply-box{
+	background-color: #fff;
+	border: 1px solid #dadfe3;
+	margin-bottom: 20px;
+	
+}
+
+.reply-box .to{
+	border-bottom: 1px #ebeef0 solid;
+	padding-bottom: 8px;
+	padding-left: 10px;
+}
+
+.reply-box .from{
+	border-bottom: 1px #ebeef0 solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.reply{
+	height: 200px;
+	width: 100%;
+	background-color: #fff;
+	outline: none;
+     box-shadow:none;
+     overflow-x: hidden;
+    overflow-y: scroll;
+    padding:10px 10px;
+}
+
+.ck_panel{
+	background-color: #f9f9f9;
+}
+
+/* Bootstrap Customization */
+
+
+.form-control{
+	border-radius: 0px;
+}
