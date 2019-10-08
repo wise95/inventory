@@ -37,6 +37,8 @@
 
     </div>
 
+    
+
     <div class="columns" style="margin-left:-3.4rem;padding-top: 13px;margin-bottom: 0px;">
         <div class="column is-8" style="padding-right: 0px;">
 
@@ -49,8 +51,6 @@
         </div>
 
     </div>
-
-    
 
 </section>
 </template>
