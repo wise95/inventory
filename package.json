@@ -22,7 +22,7 @@
     "vue-router": "^3.0.1"
   },
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "apexcharts": "^3.8.6",
     "moment": "^2.24.0",
     "v-tooltip": "^2.0.2",
